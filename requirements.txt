@@ -1,0 +1,8 @@
+# requirements.txt
+Flask==2.3.3
+yt-dlp==2025.12.08
+waitress==2.1.2
+urllib3==2.0.0      # Penting untuk kompatibilitas
+certifi==2023.7.22   # SSL certificates
+charset-normalizer==3.3.0
+idna==3.4
